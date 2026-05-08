@@ -1,0 +1,16 @@
+{
+  "name": "fridayfunk-game",
+  "version": "1.0.0",
+  "description": "Friday Night Funkin' web port",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnknownCodersonLT4/fridayfunk.git"
+  },
+  "keywords": [
+    "fnf",
+    "game"
+  ],
+  "author": "UnknownCodersonLT4",
+  "license": "MIT"
+}
